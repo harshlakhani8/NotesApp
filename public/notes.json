@@ -1,0 +1,46 @@
+{
+  "notes": [
+    {
+      "id": "1",
+      "title": "Project Kickoff Meeting",
+      "description": "Discussed project scope, timeline, and deliverables with the team.",
+      "category": "Work",
+      "createdAt": "2025-11-15T09:30:00Z"
+    },
+    {
+      "id": "2",
+      "title": "Q4 Roadmap",
+      "description": "Planning features for Q4 including new dashboard and API improvements.",
+      "category": "Work",
+      "createdAt": "2025-11-14T14:20:00Z"
+    },
+    {
+      "id": "3",
+      "title": "Personal Goals",
+      "description": "Read 12 books, exercise 3x a week, learn TypeScript deeply.",
+      "category": "Personal",
+      "createdAt": "2025-11-13T18:45:00Z"
+    },
+    {
+      "id": "4",
+      "title": "Weekend Plans",
+      "description": "Hiking at Mount Tamalpais on Sunday morning, then brunch with friends.",
+      "category": "Personal",
+      "createdAt": "2025-11-12T10:15:00Z"
+    },
+    {
+      "id": "5",
+      "title": "Build a Notes App",
+      "description": "Create an Evernote-like app with React, Vite, Tailwind. Include categories, filtering, and localStorage persistence.",
+      "category": "Ideas",
+      "createdAt": "2025-11-11T16:30:00Z"
+    },
+    {
+      "id": "6",
+      "title": "AI Implementation Ideas",
+      "description": "Explore AI for smart tagging, automatic summarization, and search optimization.",
+      "category": "Ideas",
+      "createdAt": "2025-11-10T12:00:00Z"
+    }
+  ]
+}
